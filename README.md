@@ -1,4 +1,4 @@
-# Aivory Blog 🖋️
+# Inktale Blog 🖋️
 A minimalistic AI-powered blog app for short, snappy posts.
 
 ## Features
